@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Flink-userLogindetect" />
         <module name="Flink-common" />
+        <module name="Flink-PayTimeOut" />
+        <module name="Flink-Turtial" />
         <module name="Flink-HotItemsAnalysis" />
       </profile>
     </annotationProcessing>

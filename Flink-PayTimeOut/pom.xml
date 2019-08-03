@@ -9,10 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>Flink-userLogindetect</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-    </modules>
+    <artifactId>Flink-PayTimeOut</artifactId>
     <dependencies>
         <dependency>
             <groupId>org.apache.flink</groupId>

@@ -9,21 +9,14 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>Flink-userLogindetect</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-    </modules>
+    <artifactId>Flink-Turtial</artifactId>
     <dependencies>
         <dependency>
             <groupId>org.apache.flink</groupId>
-            <artifactId>flink-cep_${scala.binary.version}</artifactId>
-            <version>${flink.version}</version>
+            <artifactId>flink-connector-elasticsearch6_2.11</artifactId>
+            <version>1.7.2</version>
         </dependency>
-        <dependency>
-            <groupId>org.apache.flink</groupId>
-            <artifactId>flink-cep-scala_${scala.binary.version}</artifactId>
-            <version>${flink.version}</version>
-        </dependency>
+
     </dependencies>
 
 </project>

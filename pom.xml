@@ -12,6 +12,8 @@
         <module>Flink-userLogindetect</module>
         <module>Flink-common</module>
         <module>Flink-HotItemsAnalysis</module>
+        <module>Flink-PayTimeOut</module>
+        <module>Flink-Turtial</module>
     </modules>
 
     <properties>
